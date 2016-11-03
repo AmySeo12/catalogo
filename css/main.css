@@ -1,0 +1,114 @@
+.container-fluid{
+	padding: 0 40px;
+}
+
+.navbar-brand{
+	height: 80px;
+}
+
+.navbar-brand img{
+	height: 100%;
+}
+
+.navbar-nav{
+	margin: 15px;
+}
+
+.navbar-default .navbar-nav > li > a{
+	font-size: 18px;
+}
+
+a{
+    color: #000 !important;
+    font-size: Verdana;
+}
+
+.tamaño{
+	width: 100%;
+}
+
+.parrafo{
+	font-size: 17.5px;
+	padding-top: 20px;
+}
+
+.seccion-beneficios{
+	background-color:#F1ECF2;
+}
+
+.seccion{
+	padding: 35px;
+}
+
+.columnas{
+	max-width: 1000px;
+    margin: 2.5% auto;
+    padding: 15px 0 10px;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.iconos{
+	width: 20%;
+}
+
+.boton{
+	position: fixed;
+    bottom: 3px;
+    right: 60px;
+    background-color: #3498DB;
+    padding: 11px 30px;
+}
+
+.footer{
+	padding: 2%;
+	color: white;
+	background-color: black;
+}
+
+.slider{
+	background: transparent !important;
+}
+
+.collapse .navbar-right li a:hover{
+	color: #02AEDA !important;
+}
+
+.mt{
+	margin-top: 20px;
+}
+
+.iconos{
+	height:46px; 
+	margin: 0 auto;
+}
+
+.marcas{
+	height:100px; 
+	margin: 0 auto;
+}
+
+.carousel-marcas{
+	height: 150px; 
+	max-width: 1120px; 
+	margin: 0 auto; 
+	padding-top: 25px;
+}
+
+.padding{
+	padding: 0px 100px 10px;
+}
+
+.mt{
+	margin-top: 30px;
+}
+
+.mt-20{
+	margin-top: 20px;
+}
+
+.mg{
+	margin: 5px auto;
+}
